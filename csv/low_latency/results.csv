@@ -1,0 +1,5 @@
+scheme,avg_throughput,95th_delay,loss_rate
+bbr,13.91,109.849,0.13
+cubic,14.21,1344.659,1.93
+vegas,4.65,54.100,0.03
+
